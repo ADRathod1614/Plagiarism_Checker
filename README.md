@@ -1,1 +1,1 @@
-# CodeClause_Plagiarism_Checker
+# Plagiarism_Checker
